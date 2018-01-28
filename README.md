@@ -4,7 +4,7 @@
 This repository is for my submission to Ludum Dare 40. The entry can be found [here](https://ldjam.com/events/ludum-dare/40/spacebadies). A playable game can be downloaded [here](https://drive.google.com/open?id=1hE01HtqJLgZ9iMn79d93d1oELqM8v-eH). You can read a postmortem analysis of LD40 [on my blog](http://www.dennis-stepp.com/post/ludumdare40/).
 
 ## LD40 Results
-Final results
+Final results for SpaceBaddies
 
 | Category      | Rank          | Average Rank  |
 | ------------- |:-------------:| -----:|
@@ -23,4 +23,3 @@ Final results
 * When working locally, try to work in feature branches.
 * Please follow GitFlow.
 * You may fork this repository freely, for personal or commerical use. It would be cool if you dropped my name in some credits, but it's not required.
-
