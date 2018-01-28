@@ -5,14 +5,17 @@ This repository is for my submission to Ludum Dare 40. The entry can be found [h
 
 ## LD40 Results
 Final results
-|Overall:| 411th (3.6 average from 22 ratings)|
-|Fun:| 425th (3.475 average from 22 ratings)|
-|Innovation:| 957th (2.7 average from 22 ratings)|
-|Theme:| 865th (3.025 average from 22 ratings)|
-|Graphics:| 408th (3.75 average from 22 ratings)|
-|Audio:| 98th (3.921 average from 21 ratings)|
-|Humor:| 774th (2.5 average from 19 ratings)|
-|Mood:| 625th (3.211 average from 21 ratings)|
+
+| Category      | Rank          | Average Rank  |
+| ------------- |:-------------:| -----:|
+| Overall: | 411th | (3.6 average from 22 ratings) |
+|Fun:| 425th | (3.475 average from 22 ratings)|
+|Innovation:| 957th | (2.7 average from 22 ratings)|
+|Theme:| 865th | (3.025 average from 22 ratings)|
+|Graphics:| 408th | (3.75 average from 22 ratings)|
+|Audio:| 98th | (3.921 average from 21 ratings)|
+|Humor:| 774th | (2.5 average from 19 ratings)|
+|Mood:| 625th | (3.211 average from 21 ratings)|
 
 ## Rules of the Repository
 * Master branch is production, period.
