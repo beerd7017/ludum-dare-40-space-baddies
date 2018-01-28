@@ -1,29 +1,23 @@
-# README #
+# Welcome to the SpaceBaddies
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## Purpose
+This repository is for my submission to Ludum Dare 40. The entry can be found [here](https://ldjam.com/events/ludum-dare/40/spacebadies). A playable game can be downloaded [here](https://drive.google.com/open?id=1hE01HtqJLgZ9iMn79d93d1oELqM8v-eH). You can read a postmortem analysis of LD40 [on my blog](http://www.dennis-stepp.com/post/ludumdare40/).
 
-### What is this repository for? ###
+## LD40 Results
+Final results
+|Overall:| 411th (3.6 average from 22 ratings)|
+|Fun:| 425th (3.475 average from 22 ratings)|
+|Innovation:| 957th (2.7 average from 22 ratings)|
+|Theme:| 865th (3.025 average from 22 ratings)|
+|Graphics:| 408th (3.75 average from 22 ratings)|
+|Audio:| 98th (3.921 average from 21 ratings)|
+|Humor:| 774th (2.5 average from 19 ratings)|
+|Mood:| 625th (3.211 average from 21 ratings)|
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## Rules of the Repository
+* Master branch is production, period.
+* Do not commit to master, please work off the development branch.
+* When working locally, try to work in feature branches.
+* Please follow GitFlow.
+* You may fork this repository freely, for personal or commerical use. It would be cool if you dropped my name in some credits, but it's not required.
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
